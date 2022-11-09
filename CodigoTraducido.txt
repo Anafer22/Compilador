@@ -1,0 +1,17 @@
+<PALRE> <ID> <PUN> <ID> <PUN> <ID> <DEL> 
+<PALRE> <ID> <DEL> 
+<PALRE> <PALRE> <ID> <LLI> 
+<PALRE> <PALRE> <PALRE> <ID> <PIZ> <PALRE> <COI> <COD> <ID> <PDE> <LLI> 
+<PALRE> <COI> <COD> <ID> <DEL> 
+<ID> <ASI> <PALRE> <PALRE> <COI> NUM <COD> <DEL> 
+<ID> <COI> NUM <COD> <ASI> NUM <DEL> 
+<ID> <COI> NUM <COD> <ASI> NUM <DEL> 
+<ID> <COI> NUM <COD> <ASI> NUM <DEL> 
+<ID> <COI> NUM <COD> <ASI> NUM <DEL> 
+<ID> <COI> NUM <COD> <ASI> NUM <DEL> 
+<PALRE> <PIZ> <PALRE> <ID> <ASI> NUM <DEL> <ID> <MEN> <ID> <PUN> <ID> <DEL> <ID> <SUM> <SUM> <PDE> <LLI> 
+<PALRE> <PUN> <ID> <PUN> <ID> <PIZ> <SUM> <ID> <SUM> <SUM> <ID> <COI> <ID> <COD> <PDE> <DEL> 
+<LLD> 
+<LLD> 
+<LLD> 
+
